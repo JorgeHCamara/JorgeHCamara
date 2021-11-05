@@ -1,16 +1,16 @@
-### Hi there 👋
+### Olá 👋
 
-<!--
-**JorgeHCamara/JorgeHCamara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente trabalho com front-end
+- 🌱 Estudando desenvolvimento web (HTML, CSS, JavaScript, React.js, JQuery, Bootstrap, etc) 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://github.com/JorgeHCamara">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JorgeHCamara&show_icons=true&theme=dark&include_all_comits=true&count_private=true&border_radius=30px"/>
+</div>
+  
+<div style="display: inline_block"><br>
+  <img align="center" alt="Jorge-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Jorge-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Jorge-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<div>
+                                                                   
