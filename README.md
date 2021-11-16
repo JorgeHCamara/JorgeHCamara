@@ -1,7 +1,7 @@
 ### Olá 👋
 
 - 🔭 Atualmente trabalho com front-end
-- 🌱 Estudando desenvolvimento web (HTML, CSS, JavaScript, React.js, JQuery, Bootstrap, etc) 
+- 🌱 Estudando desenvolvimento web (HTML, CSS, JavaScript, Bootstrap, JQuery, React.js, etc) 
 
 <div>
   <a href="https://github.com/JorgeHCamara">
