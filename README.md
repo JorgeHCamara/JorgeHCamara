@@ -1,6 +1,5 @@
 ### Olá 👋
 
-- 🔭 Atualmente trabalho com front-end
 - 🌱 Estudando desenvolvimento web (HTML, CSS, JavaScript, Bootstrap, JQuery, React.js, etc) 
 
 <div>
