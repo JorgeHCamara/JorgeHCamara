@@ -1,6 +1,6 @@
 ### Olá 👋
 
-- 🌱 Estudando desenvolvimento web (HTML, CSS, JavaScript, Bootstrap, JQuery, React.js, Node.js, MongoDB, etc.) 
+- 🌱 Estudando desenvolvimento web (HTML, CSS, JavaScript, TypeScript, Angular, Bootstrap.) 
 
 <div>
   <a href="https://github.com/JorgeHCamara">
