@@ -1,6 +1,6 @@
 ### Olá 👋
 
-- 🌱 Estudando desenvolvimento web (HTML, CSS, JavaScript, TypeScript, Angular, Bootstrap.) 
+- 🌱 Estudando desenvolvimento web. Atualmente no Bootcamp Fullstack do Santander (HTML, CSS, JavaScript, TypeScript, Angular, Java, Spring Boot). 
 
 <div>
   <a href="https://github.com/JorgeHCamara">
