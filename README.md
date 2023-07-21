@@ -2,7 +2,7 @@
 
 - 🌱 Estudando desenvolvimento web full stack (HTML, CSS, JavaScript, React, Programação Orientada a Objetos com Java, SQL, Bootstrap)
 - 📚 Análise e Desenvolvimento de Sistemas - FIAP (2022 - 2023)
-- 💼 Estagiário Front-End Developer na Hyperativa (Agosto/2022 - atual)
+- 💼 Front-End Developer na Hyperativa (Agosto/2022 - atual)
 
 <div>
   <a href="https://github.com/JorgeHCamara">
