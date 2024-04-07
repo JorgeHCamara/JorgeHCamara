@@ -1,7 +1,8 @@
 ### Olá 👋
 
-- 📚 Análise e Desenvolvimento de Sistemas - FIAP (2022 - 2023)
-- 💼 Front-End Developer na Hyperativa (Agosto/2022 - atual)
+- 📚 System Analysis and Development Degree - FIAP (2022 - 2023)
+- 💼 Software Developer at Hyperativa (August/2022 - December/2023)
+- 💼 Software Engineer at BTG Pactual (January/2024 - current)
 
 <div>
   <a href="https://github.com/JorgeHCamara">
